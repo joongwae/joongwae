@@ -1,6 +1,6 @@
 # John Ongwae Oenga 👨‍💻
 
-**Apigee Engineer | Software Developer | Tech Mentor**  
+**Enterprise API Specialist @Safaricom | Apigee Hybrid | Java/Spring Boot Microservices | Kubernetes & Docker | Former R&D Lead | Passionate about mentoring and API innovation**  
 Nairobi, Kenya 📍
 
 [![Email](https://img.shields.io/badge/Email-johnongwae4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:johnongwae4@gmail.com)
